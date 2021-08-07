@@ -9,11 +9,18 @@ just my clean purple desktop, wallpaper made by me
 typical r/unixporn type screenshot
 
 # the details
-OS : Lubuntu 21.04
+OS : Lubuntu 21.04 
+
 DE : LxQt 0.16.0
+
 WM : i3wm
+
 Launcher : lxqt-runner (i might move to rofi later on, but for now it just works)
+
 Bar : tint2
+
 Terminal : Alacritty
+
 Open : ncspot, neofetch, cava, Live 11
+
 Cheese : [WIP](https://soundcloud.com/xyliad/cheese)
